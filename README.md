@@ -15,3 +15,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihuder&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihuder&layout=compact&theme=vue)
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jihuder&theme=vue)
