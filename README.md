@@ -1,20 +1,10 @@
-### Hi word! I am Julio Cesar Arenas 👋
+### Hi world! I am Julio Cesar Arenas 👋
 --- 
 
 <p align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jihuder&theme=vue&show_icons=true" alt="My github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihuder&theme=vue" alt="Streak" />
 </p>
-
----
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihuder&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jihuder&theme=vue" alt="Profile Summary" />
 </p>
-
-
-
-
-
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jihuder&theme=vue)
